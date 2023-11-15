@@ -23,7 +23,7 @@
             <td>NVIDIA GeForce RTX 4090</td>
             <td>32GB</td>
             <td>159,990 THB</td>
-            <td><image src = "resouce/13641-Asus-ROG-Zephyrus-review-lid1.webp"width = "300"hight ="180" ></image>
+            <td><image src = "resource/Asus ROG Zephyrus.png"width = "300"hight ="180" ></image>
             </td>
         </tr>
         <tr>
@@ -32,7 +32,7 @@
             <td>NVIDIA GeForce RTX 4080</td>
             <td>32GB</td>
             <td>111,900 THB</td>
-            <td><image src = "resouce/20230522162548_58310_287_1.webp"width = "300"hight = "180"></image> </td>
+            <td><image src = "resource/Notebook Lenovo LegionPro7.webp"width = "300"hight = "180"></image> </td>
         </tr>
         <tr>
             <td>MSI Stealth 17Syudio</td>
@@ -40,7 +40,7 @@
             <td>NVIDIA GeForce RTX 4090</td>
             <td>64GB</td>
             <td>149,900 THB</td>
-            <td><image src = "resouce/c07e217d546496f850007f975a9ceb71.jpg"width = "300"hight = "180"></image> </td>
+            <td><image src = "resource/MSI Stealth 17Syudio.webp"width = "300"hight = "180"></image> </td>
         </tr>
 
 
